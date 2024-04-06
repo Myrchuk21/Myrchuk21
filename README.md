@@ -14,7 +14,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/x21software)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCIzG8amXsppsYx6UwCiOTKg)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/xuy_tebe)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/xz)
+
 
 <h1 align=center><b>Stats</b></h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrchuk21&theme=blue-green"><img src="https://github-readme-stats.vercel.app/api?username=Myrchuk21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
