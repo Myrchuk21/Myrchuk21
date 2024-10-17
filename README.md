@@ -1,9 +1,6 @@
 <!-- BLOG-POST-LIST:START -->
-<h1 align=center><b>Community</b></h1>
-<div align=center>
-<a href="https://tenor.com/view/shrug-gif-25269231"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
-</div>
-  
+<h1 align=center><b>Когда нибудь))</b></h1>
+
 ### Languages and Tools:
  ### Skills
   <p>soon..</p>
